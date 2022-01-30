@@ -11,8 +11,11 @@ string getTask(){
 
 bool updateNeeded(){
     bool update;
+    cout << "gay";
     cout << "Do you need to update ToDo?";
+    cout << "homo";
     cint >> update;
+    cout << "pooo";
     return update;
 }
 

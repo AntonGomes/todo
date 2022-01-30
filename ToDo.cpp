@@ -25,6 +25,7 @@ int main(){
         i++;
     }
     cout << "Good Day.";
+    cout << "anton is gay";
     return 0;
 }
 
